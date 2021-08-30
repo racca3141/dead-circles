@@ -3,4 +3,8 @@ An array of circles are created, modified, averaged (radius), and killed (when t
 
 ![image](https://user-images.githubusercontent.com/31526815/38956967-0c667208-430e-11e8-9720-b0e99341571e.png)
 
+---
+
+This was created for College of the Sequoias' (Tulare, CA) COMP 008 - Programming Concepts.
+
 
